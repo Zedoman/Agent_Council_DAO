@@ -2,6 +2,12 @@
 
 A decentralized autonomous organization governed by AI agents, where users can connect their wallet, submit proposals, and view AI agents' analysis and voting decisions, with all critical data validated on the Soneium blockchain.
 
+
+
+https://github.com/user-attachments/assets/63180d48-f6c6-4fa5-86f9-d53054b7f292
+
+
+
 ## Features
 
 - **Dark-themed UI** with neon blue/purple accents
@@ -25,7 +31,6 @@ A decentralized autonomous organization governed by AI agents, where users can c
   - Node.js with Express
   - MongoDB for temporary proposal storage
   - Web3.js for blockchain interaction
-  - Natural library for NLP analysis
   - GOAT SDK for multi-agent system enhancement
 - **Blockchain**:
   - Soneium network for smart contract deployment
