@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/avradeepnayak/Downloads/Agent-main/contracts/AgentCouncilDAO.sol": {
+      "lastModificationDate": 1744616343227,
+      "contentHash": "0db87145d0c4fee244770d95cadfa987",
+      "sourceName": "contracts/AgentCouncilDAO.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "AgentCouncilDAO"
+      ]
+    },
+    "/Users/avradeepnayak/Downloads/Agent-main/contracts/UserOperation.sol": {
+      "lastModificationDate": 1744658333745,
+      "contentHash": "9c3af448e7a8b02c29459e9ba7249dd9",
+      "sourceName": "contracts/UserOperation.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "UserOperation"
+      ]
+    }
+  }
+}
