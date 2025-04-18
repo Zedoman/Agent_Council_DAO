@@ -33,6 +33,7 @@ https://github.com/user-attachments/assets/63180d48-f6c6-4fa5-86f9-d53054b7f292
   - Web3.js for blockchain interaction
   - GOAT SDK for multi-agent system enhancement
 - **Blockchain**:
+  - Used Chainlink for the Web3 tokens for wallet
   - Soneium network for smart contract deployment
   - VotingContract smart contract for on-chain vote storage
   - Startale AA toolkit for gasless transactions
